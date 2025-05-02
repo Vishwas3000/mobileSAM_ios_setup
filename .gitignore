@@ -49,3 +49,10 @@ coreml_models/
 .env
 .env.local
 .env.*.local 
+
+#testfiles
+mobilesam_test_results
+coreml_interactive_results
+mask_only.png
+mobilesam_test_result.png
+overlay_only.png
